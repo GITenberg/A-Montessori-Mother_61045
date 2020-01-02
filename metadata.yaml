@@ -1,0 +1,28 @@
+_repo: A-Montessori-Mother_61045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Fisher, Mrs. John Redwood
+    - Fisher, Dorothea Frances Canfield
+    - Canfield, Dorothea F.
+    - Canfield, Dorothy
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+description: ''
+gutenberg_issued: '2019-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Montessori Mother
+url: http://www.gutenberg.org/ebooks/61045
